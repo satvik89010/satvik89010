@@ -7,7 +7,7 @@ B.Tech (ECE), Maharaja Agrasen Institute of Technology (GGSIPU) — **9.14 CGPA*
 
 - 🔍 **Open to** entry-level / fresher **Data Analyst, Business Analyst and MIS** roles — on-site, hybrid or remote (Delhi NCR)
 - 📫 **Contact:** mansotrasatvik@gmail.com · [LinkedIn](https://www.linkedin.com/in/satvik09)
-- ⚡ Every project below runs end to end with one command (`python run_all.py`) and includes raw data, cleaning, SQL, analysis and a written business recommendation
+- ⚡ Each project runs end to end with one command (`python run_all.py`) and includes raw data, cleaning, SQL, analysis and a written business recommendation
 
 ---
 
@@ -16,14 +16,12 @@ B.Tech (ECE), Maharaja Agrasen Institute of Technology (GGSIPU) — **9.14 CGPA*
 | Project | Business question → result | Tools |
 |---------|----------------------------|-------|
 | [📊 **Sales Performance Analysis**](https://github.com/satvik89010/sales-performance-analysis) | Why is profit not keeping up with sales? Found that discounts above 10% and the East region (−1.8% margin) were wiping out profit; a 20% discount cap adds **≈ ₹23 L profit (+11.5%)**. | Excel dashboard · SQL (30 queries) · Python |
-| [👥 **HR Attrition Analytics**](https://github.com/satvik89010/hr-attrition-analytics) | Why do 1 in 5 employees leave? Overtime raises attrition **2.4×**; attrition costs **≈ ₹15 Cr**; a logistic-regression model flags **253** high-risk employees for retention action. | Python · SQL (23 queries) · scikit-learn |
-| [🛒 **Customer Segmentation (RFM)**](https://github.com/satvik89010/customer-segmentation-rfm) | Who are our best customers? **33%** of customers drive **70%** of revenue; **₹45.8 L** sits with at-risk customers; 10 RFM segments validated with K-means. | Python · SQL (20 queries) · K-means |
 
 <p>
-  <img src="https://raw.githubusercontent.com/satvik89010/sales-performance-analysis/main/images/00_excel_dashboard.png" width="32%" alt="Sales dashboard">
-  <img src="https://raw.githubusercontent.com/satvik89010/hr-attrition-analytics/main/images/00_hr_dashboard.png" width="32%" alt="HR dashboard">
-  <img src="https://raw.githubusercontent.com/satvik89010/customer-segmentation-rfm/main/images/00_customer_dashboard.png" width="32%" alt="Customer dashboard">
+  <img src="https://raw.githubusercontent.com/satvik89010/sales-performance-analysis/main/images/00_excel_dashboard.png" width="70%" alt="Sales dashboard">
 </p>
+
+🔧 **In progress:** HR attrition analytics (Python, SQL, logistic regression) · Customer segmentation with RFM & K-means
 
 ## 🛠 Skills
 
